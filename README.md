@@ -1,7 +1,9 @@
 #### Hacktoberfest Snake Game
 #### By: Shane
 
-So, I decided to build a snake game for the Repository https://github.com/Prouser123/PyOS/issues/22
+So, I decided to build a snake game for the Repository https://github.com/Prouser123/PyOS/issues/22  
+The game is built using Python 2.7 & Pygame. 
+##### You must use Python2.7 for this game.  
 
 Intructions:
 1. Clone the repository 
