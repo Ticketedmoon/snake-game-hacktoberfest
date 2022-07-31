@@ -10,3 +10,5 @@ Intructions:
 2. Change directory into the code directory
 3. `python Launcher.py` will play the game
 4. Required package: pygame==1.9.4 | simply just run `pip install -r requirements.txt` from the project root directory in your shell.
+
+![SnakeGameHacktoberFest](https://user-images.githubusercontent.com/21260839/182022349-b132c250-13e5-4415-b2fc-5df20a55ceba.PNG)
