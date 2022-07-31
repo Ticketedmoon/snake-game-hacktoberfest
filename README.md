@@ -9,4 +9,4 @@ Intructions:
 1. Clone the repository 
 2. Change directory into the code directory
 3. `python Launcher.py` will play the game
-4. Required package: pygame==1.9.4 | simply just run `pip install -r requirements.txt` from the root directory in your shell.
+4. Required package: pygame==1.9.4 | simply just run `pip install -r requirements.txt` from the project root directory in your shell.
